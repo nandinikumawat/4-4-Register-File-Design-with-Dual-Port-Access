@@ -250,7 +250,8 @@ fmax ≈ 14.53 GHz
 ```
 
 <p align="center">
-<img width="1392" height="573" alt="image" src="https://github.com/user-attachments/assets/ccd66d12-312b-48da-8758-05a1a6fb2f0a" />
+<img width="632" height="387" alt="image" src="https://github.com/user-attachments/assets/d1148d72-45af-4eb1-9437-8e88a71cb412" />
+
   <br>
   <em>Figure: Clock-to-Q delay measurement showing 14.216 ps propagation</em>
 </p>
