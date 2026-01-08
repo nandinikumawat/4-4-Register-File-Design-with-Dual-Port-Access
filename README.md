@@ -38,6 +38,8 @@ This project implements a fully functional 4×4 register file with independent r
 
 <p align="center">
   <img width="671" height="540" alt="image" src="https://github.com/user-attachments/assets/4a8ba252-310c-468e-8b3f-648082601240" />
+</p>
+<p align="center">
   <em>Figure: Complete 4×4 register file architecture</em>
 </p>
 
